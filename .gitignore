@@ -3,3 +3,6 @@ logs/
 
 # txt files
 docs/*.txt
+
+#MyCommand
+Command/
