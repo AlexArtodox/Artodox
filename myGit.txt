@@ -1,0 +1,9 @@
+[user]
+	name = AlexArtodox
+	email = alex@artodox.de
+[core]
+	editor = 'C:\\Program Files (x86)\\Notepad++\\Notepad++.exe' -multiInst -notabbar -nosession -noPlagin
+[merge]
+	tool = kdiff3
+[mergetool "kdiff3"]
+	cmd = \"D:\\\\Program Files\\\\KDiff3\\\\kdiff3\" $BASE $LOCAL $REMOTE -o $MERGED
